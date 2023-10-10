@@ -57,6 +57,6 @@ public class Personagem {
 
     void estado() {
         System.out.print(/* nome + */" [energia: " + energia + " fome: " + fome + " sono: " + sono + "]\n");
-
     }
+
 }
